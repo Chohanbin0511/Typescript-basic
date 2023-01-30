@@ -1,0 +1,1 @@
+myName = 42 하면 Type 'number' is not assignable to type 'string'.ts(2322) 오류 발생 확인한다.
